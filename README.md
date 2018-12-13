@@ -2,4 +2,6 @@ This material has been gathered, coalated, revised, refined, and printed for use
 
 We are releasing this material as an instructional aid. It is meant solely as supplemental material and is not meant to replace any standardized curriculum or other teaching aid.
 
+This is a work in progress, and since there are only a couple of us, it's a slow work in progress. Don't like it? Don't use it. Think it could be better? Tell me how it could be better. Constructive criticism is appreciated.
+
 It is being released under CC BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

@@ -4,4 +4,4 @@ We are releasing this material as an instructional aid. It is meant solely as su
 
 This is a work in progress, and since there are only a couple of us, it's a slow work in progress. Don't like it? Don't use it. Think it could be better? Tell me how it could be better. Constructive criticism is appreciated.
 
-It is being released under CC BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Unless otherwise noted, materials are being released under CC BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

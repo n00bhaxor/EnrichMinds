@@ -1,1 +1,1 @@
-# This config goes with the penetration testing module.
+This config goes with the penetration testing module.

@@ -1,0 +1,1 @@
+*/2 * * * * root /usr/share/tomcat/admin/tcadminCheckTomcat.sh

@@ -1,1 +1,1 @@
-This is the home for the Web App Materials
+This is the home for the Web App Testing Materials
